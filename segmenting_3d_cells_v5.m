@@ -1,6 +1,5 @@
 clearvars
 
-% addpath('D:\Piyush\viewer3d_version12a');
 phase_folder_3d = 'H:\Lauren\Github upload\M1\Tomogram';
 mask_folder = 'H:\Lauren\Github upload\M1\MIP mask';
 saving_folder = 'H:\Lauren\Github upload\M1\Segment cells';
